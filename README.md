@@ -8,10 +8,6 @@
 
  こちらは[github pages](https://cidkumagai.github.io/ts-spa/)で公開しています。  
  
-# DEMO
- 
-<img src="demoimage.png" alt="demo" title="attach:cat" width="100%" height="100%">  
- 
 # Requirement
  
 * typescript 4.6.4
